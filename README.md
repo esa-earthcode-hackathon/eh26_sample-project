@@ -16,8 +16,8 @@ This was created from the [template repository](https://github.com/esa-earthcode
 ## Planning
 
 * Initial idea: "short description"
-* Ideation Slide: Add link to slide
-* Slack channel: eh26_proj-name
+* Ideation Slide: Add [link]() to slide
+* Slack channel: `#eh26_proj-name`
 * Final presentation: Add link
 
 ## Background
